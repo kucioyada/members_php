@@ -1,11 +1,11 @@
 <?php
 
-define('DSN', 'mysql:host=mysql001.phy.lolipop.jp;dbname=LAA0370841-membersphp');
-define('DB_USER', 'LAA0370841');
-define('DB_PASSWORD', '2egby6mh');
+define('DSN', 'mysql:host=***************.jp;dbname=*********-*******');
+define('DB_USER', '**********');
+define('DB_PASSWORD', '********');
 
 define('SITE_URL', 'http://pee.hungry.jp/members_php/');
-define('PASSWORD_KEY', 'ALcY4EDsR1LPKJw'); //暗号化用のキー
+define('PASSWORD_KEY', '*********'); //暗号化用のキー　適当な文字列
 
 error_reporting(E_ALL & ~E_NOTICE);
 
